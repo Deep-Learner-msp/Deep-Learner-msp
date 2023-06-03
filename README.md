@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 👋 Greetings, I am MSP Raja, an accomplished data science and AI professional with more than 5 years of industry experience. I currently lead a brilliant team of data scientists and engineers at a financial firm, harnessing the power of AI to create transformative solutions.
 
@@ -16,4 +15,6 @@
 
 Email: mspraj00@gmail.com
 LinkedIn(https://www.linkedin.com/in/mspraja)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mspraja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
