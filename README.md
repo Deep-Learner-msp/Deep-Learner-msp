@@ -9,5 +9,5 @@ I'm a passionate AI enthusiast working relentlessly towards understanding and de
 📫 Reach out to me via:
 
 Email: mspraj00@gmail.com
-LinkedIn
+LinkedIn(https://www.linkedin.com/in/mspraja)
 ![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
