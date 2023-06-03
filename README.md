@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 👋 Greetings, I am MSP Raja, an accomplished data science and AI professional with more than 5 years of industry experience. I currently lead a brilliant team of data scientists and engineers at a financial firm, harnessing the power of AI to create transformative solutions.
 
 🔬 As a passionate researcher, I've authored 4 research papers in the realm of speech recognition and natural language processing, presented at prestigious conferences such as EMNLP and FNP. One of my highlights includes presenting my work at the EMNLP conference held in Abu Dhabi in December 2022.
