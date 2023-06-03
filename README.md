@@ -1,12 +1,13 @@
-- 👋 Hi, I’m msp raja
-- 👀 I’m interested in Strong AI, Decentralized AI and neural AI machines
-- 🌱 I’m currently learning Defi and large language models
-- 💞️ I’m looking to collaborate on non profit AI projects that helps for better world
-- 📫 How to reach me ...
-Email:mspraj00@gmail.com
-LinkedIn:https://www.linkedin.com/in/mspraja
+👋 Hello World, I'm MSP Raja!
 
-<!---
-Deep-Learner-msp/Deep-Learner-msp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate AI enthusiast working relentlessly towards understanding and developing Strong AI, Decentralized AI and Neural AI Machines. I am particularly fascinated with the idea of Generative AI, its immense capabilities, and its potential in shaping the future of technology.
+
+🧠 My journey currently involves diving deep into the universe of Defi and Large Language Models, with an ambitious goal in sight – developing a machine that mirrors the workings of the human brain, and possibly explores the realm of machine consciousness.
+
+💡 I am always open to collaboration on non-profit AI projects that work towards creating a better world, leveraging AI's immense capabilities for societal good. If you share the same vision, I would love to connect and learn from each other!
+
+📫 Reach out to me via:
+
+Email: mspraj00@gmail.com
+LinkedIn
+![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
